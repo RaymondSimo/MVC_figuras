@@ -63,8 +63,8 @@ public class ControllerPerimetro implements ActionListener{
             this.viewPerimetro.jtf_ladoTriangulo.setVisible(true);
             this.viewPerimetro.jtf_baseTriangulo.setVisible(true);
             this.viewPerimetro.jtf_ladoCuadrado.setVisible(true);
-             JOptionPane.showMessageDialog(null, "Area Triangulo isoscel es:" +Triangulo() +"Area recatangulo es:" +Rectangulo() 
-                     +"Area del cuadrado es:"+Cuadrado());
+             JOptionPane.showMessageDialog(null, "Perimetro Triangulo isoscel es: " +Triangulo() +" \n Perimetro recatangulo es: " +Rectangulo() 
+                     +"\n Perimetro del cuadrado es:"+Cuadrado()); //Es Perimetro no area
         }
     }
     
