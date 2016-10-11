@@ -50,7 +50,7 @@ public class ViewVolumen extends javax.swing.JPanel {
         jLabel2.setText("Resultado");
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel3.setText("Volumenes");
+        jLabel3.setText("Volumenes GME");
 
         jLabel4.setText("Ingrese la altura que quiera");
 
